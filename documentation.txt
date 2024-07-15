@@ -1,0 +1,31 @@
+THIS PROJECT IS ABOUT CONTENT GENERATION USING GEMINI AI API
+
+1.go to build with gemini api in browser
+2.there you can see "getapi" and "readdocs"
+3.scroll down you can see intgrate then you use with NODE
+4.hit on genrte api key
+5.copy that and store that in .env file in backend
+
+
+                <BACKEND>
+
+1.create backend folder app,js
+2.npm i express mongoose dotenv
+3.npm i @google/generative-ai for AI intgration
+4.npm i cors
+5.write code to integrate
+6.open thunderclient and send prompt 
+7.we got our required response
+8.lets attach frontend using vite+react
+
+              <FRONTEND>
+
+1. npm create vite@latest
+2.go to browser and get tanstackquery
+3.this is for reactquery i.e it will handle state management
+4.read documentation for more details
+5.npm i @tanstack/react-query
+6.now open src folder in frontend and open main.jsx
+7.write code here  to develop
+8.open terminal in frotend and import axios
+9.import cors and include it in app.js
